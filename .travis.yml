@@ -4,7 +4,11 @@ python:
     - "3.5.1"
     
 install:
-    - pip install requests
+    - pip install --upgrade pytest
+    - pip install --upgrade requests
     
 # command to run tests
 script: pytest
+
+# pip install pipenv
+# pipenv install
