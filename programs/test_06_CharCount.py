@@ -1,7 +1,6 @@
-import P06_CharCount
+import hotfix
 
-
-    
+   
 def test_count():
     input_string = "lll"
     loader = importlib.machinery.SourceFileLoader('P06_CharCount', '/P06_CharCount')
