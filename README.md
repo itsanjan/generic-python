@@ -1,2 +1,2 @@
 # generic-python
-This a playgoround for python based libraries and built in functions
+This a playground for python based libraries and built in functions
