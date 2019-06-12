@@ -1,3 +1,6 @@
+'''
+Program is a Pomodore Script, should act as a timer for a short period of time, punctuated by short break periods
+'''
 import time
 
 start_time = time.time()
