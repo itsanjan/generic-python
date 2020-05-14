@@ -133,3 +133,5 @@ dmypy.json
 .idea\
 .vscode/
 .vscode\
+/.idea/
+/.vscode/
