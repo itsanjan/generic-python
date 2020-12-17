@@ -129,9 +129,5 @@ dmypy.json
 .pyre/
 
 # Ide files
-\.idea
-.idea\
 .idea/
-.idea/*
-.idea\workspace.xml
-.vscode\settings.json
+Pipfile
